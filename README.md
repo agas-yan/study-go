@@ -8,4 +8,5 @@ go run hello-world.go
 build
 ```
 go build hello-world.go
+./hello-world
 ```
